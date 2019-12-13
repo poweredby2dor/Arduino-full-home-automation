@@ -15,4 +15,12 @@ This project is ongoing. Updates to the project build log and parts list will be
 
 ## Day 1 - Control unit assembly and connections.
 
-Parts are being shippied, updates soon.
+<img src="Photos/IMG_4886.JPG" width=400> <img src="Photos/IMG_4893.JPG" width=400>
+
+Testing ethernet conectivity
+
+<img src="Photos/IMG_4892.PNG" width=400>
+
+## Day 2 - Password protection and main web page design.
+
+Work in progress. Updates soon.
