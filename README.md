@@ -8,6 +8,7 @@ This project is ongoing. Updates to the project build log and parts list will be
 - Arduino MEGA 2560 R3
 - LM2576 - 16 relay board
 - LCD 20x4 Blue by Raystar
+- SNS-DH11 temperature and humidity sensor
 
 
 
